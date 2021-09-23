@@ -2,7 +2,7 @@
 
 <br />
 
-I am a passionate web developer :computer: from Tajikistan 🇹🇯
+I am a web developer :computer: from Tajikistan 🇹🇯
 
 
 **Languages and Tools:**  
