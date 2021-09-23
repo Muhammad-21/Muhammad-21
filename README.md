@@ -11,9 +11,7 @@ I am a passionate web developer from Tajikistan 🇹🇯
 
 
 #### Top Repositories
-<a href="https://github.com/Muhammad-21/InfoEdu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=InfoEdu&theme=buefy" />
-</a>
+
 
 <br />
 <br />
