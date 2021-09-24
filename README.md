@@ -1,5 +1,5 @@
-<p align="center"><img width="80%" src="./assets/gt-readme.png" /></p>
-
+<br>
+<h1 align="center" style="color:navy;font:italic 50px bold ">Hello! I'm Muhammad :)</h1>
 <br />
 
 I'm a web developer :computer: from Tajikistan 🇹🇯
