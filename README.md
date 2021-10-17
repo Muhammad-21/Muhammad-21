@@ -11,9 +11,12 @@ I'm a web developer :computer: from Tajikistan 🇹🇯
 
 #### Top Repositories
 
-<a href="https://github.com/Muhammad-21/InfoEdu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=InfoEdu&theme=buefy" />
-</a>
+| <a href="https://github.com/Muhammad-21/InfoEdu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=InfoEdu&theme=buefy" /> 
+</a> |
+<a href="https://github.com/Muhammad-21/posts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=posts&theme=buefy" />
+</a> |
 
 <br />
 <br />
