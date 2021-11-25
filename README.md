@@ -1,7 +1,7 @@
 <h1 align="center" style="color:navy; font:italic 50px bold ">Hello! I'm Muhammad :)</h1>
 <br />
 
-I'm a web developer :computer: from Tajikistan 🇹🇯
+I'm a web developer :computer: from Tajikistan 🇹🇯 (<a href="https://github.com/Muhammad-21/CV/blob/master/CV_en.pdf"> my CV :page_facing_up: </a>)
 
 ![](https://komarev.com/ghpvc/?username=Muhammad-21)
 
