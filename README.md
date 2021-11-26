@@ -15,8 +15,8 @@ I'm a web developer :computer: from Tajikistan 🇹🇯 (<a href="https://github
 <a href="https://github.com/Muhammad-21/InfoEdu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=InfoEdu&theme=buefy" /> 
 </a>
-<a href="https://github.com/Muhammad-21/posts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=posts&theme=buefy" />
+<a href="https://github.com/Muhammad-21/hacker-news">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=hacker-news&theme=buefy" />
 </a>  
 <a href="https://github.com/Muhammad-21/calendar-events">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=calendar-events&theme=buefy" />
