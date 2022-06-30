@@ -9,22 +9,6 @@ I'm a web developer :computer: from Tajikistan 🇹🇯 (<a href="https://github
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammad's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-21&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-
-#### Top Repositories
-
-<a href="https://github.com/Muhammad-21/InfoEdu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=InfoEdu&theme=buefy" /> 
-</a>
-<a href="https://github.com/Muhammad-21/hacker-news">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=hacker-news&theme=buefy" />
-</a>  
-<a href="https://github.com/Muhammad-21/calendar-events">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=calendar-events&theme=buefy" />
-</a>
-<a href="https://github.com/Muhammad-21/code-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-21&repo=code-editor&theme=buefy" />
-</a>
-
 <br />
 <br />
 
